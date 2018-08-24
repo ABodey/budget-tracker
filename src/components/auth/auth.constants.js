@@ -4,3 +4,4 @@ export const AUTH_FAILED = 'AUTH_FAILED';
 export const GOT_TOKEN = 'GOT_TOKEN';
 export const CHECKED_TOKEN = 'CHECKED_TOKEN';
 export const UPDATE_USER = 'UPDATE_USER';
+export const FETCHED_USER = 'FETCHED_USER';
